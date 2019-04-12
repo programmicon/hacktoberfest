@@ -30,7 +30,7 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 ## specific reposititories 
  search repositories named **#Hacktoberfest** https://github.com/search?q=Hacktoberfest
 
- search repositories named  **#Hacktoberfest-201** https://github.com/search?q=Hacktoberfest-2019
+ search repositories named  **#Hacktoberfest-2019** https://github.com/search?q=Hacktoberfest-2019
 
 # What's in it for you?
 
