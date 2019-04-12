@@ -9,7 +9,7 @@ This is a great way to get your feet wet, if you are new!
 
 Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
-## Find projects to contribute
+# Find projects to contribute
 
 ## New coders - this is a great way to learn!
 
