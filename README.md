@@ -33,7 +33,7 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
  tagged **#hacktoberfest** https://github.com/topics/hacktoberfest
  
-## specific reposititories 
+## specific repositories 
  search repositories named **#Hacktoberfest** https://github.com/search?q=Hacktoberfest
 
  search repositories named  **#Hacktoberfest-2019** https://github.com/search?q=Hacktoberfest-2019
