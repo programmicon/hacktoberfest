@@ -11,4 +11,18 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
 ## Find projects to contribute
 
-I will be forking projects across github here~!
+ tagged # first-timers https://github.com/topics/first-timers
+ 
+ tagged # first-timers-only https://github.com/topics/first-timers-only
+ 
+ tagged # first-timers-friendly https://github.com/topics/first-timers-friendly
+ 
+ tagged # beginner-friendly https://github.com/topics/beginner-friendly
+
+ tagged # help-wanted https://github.com/topics/help-wanted
+
+ tagged # hacktoberfest https://github.com/topics/hacktoberfest
+ 
+ search repositories named # Hacktoberfest https://github.com/search?q=Hacktoberfest
+
+ search repositories named # Hacktoberfest-2019 https://github.com/search?q=Hacktoberfest-2019
