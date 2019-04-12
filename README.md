@@ -36,6 +36,10 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
 # What's in it for you?
 
+Once registered with Digital Ocean, All contributers that get atleast 5 pull requests accepted to any projects get default swag offered by Digital Ocean (TBA).
+
+However - lots of tech companies throw their own "special swag" into the mix, for doing specific tasks....(TBA)
+
 **#swag**   https://github.com/benbarth/hacktoberfest-swag
 
 **#swag**  (Listed in alphabetic order) https://github.com/crweiner/hacktoberfest-swag-list
