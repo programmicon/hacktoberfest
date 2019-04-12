@@ -11,6 +11,8 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
 ## Find projects to contribute
 
+## New coders - this is a great way to learn!
+
  tagged **#first-timers** https://github.com/topics/first-timers
  
  tagged **#first-timers-only** https://github.com/topics/first-timers-only
@@ -19,10 +21,22 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
  
  tagged **#beginner-friendly** https://github.com/topics/beginner-friendly
 
+## for more advanced coders
+
  tagged **#help-wanted** https://github.com/topics/help-wanted
 
  tagged **#hacktoberfest** https://github.com/topics/hacktoberfest
  
+## specific reposititories 
  search repositories named **#Hacktoberfest** https://github.com/search?q=Hacktoberfest
 
  search repositories named  **#Hacktoberfest-201** https://github.com/search?q=Hacktoberfest-2019
+
+# What's in it for you?
+
+**#swag**   https://github.com/benbarth/hacktoberfest-swag
+
+**#swag**  (Listed in alphabetic order) https://github.com/crweiner/hacktoberfest-swag-list
+
+**#swag** (google that shit!) https://www.google.com/search?q=hacktoberfest+2019+swag
+
