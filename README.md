@@ -15,6 +15,8 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
 ## New coders - this is a great way to learn!
 
+ Start here! https://github.com/programmicon
+
  tagged **#first-timers** https://github.com/topics/first-timers
  
  tagged **#first-timers-only** https://github.com/topics/first-timers-only
