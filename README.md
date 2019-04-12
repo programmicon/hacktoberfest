@@ -16,6 +16,7 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 ## New coders - this is a great way to learn!
 
  Start here!  https://github.com/programmicon/how-to-contribute-to-open-source
+ 
  or for the git experience: 
  https://github.com/firstcontributions/first-contributions
  
@@ -36,6 +37,7 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
  tagged **#hacktoberfest** https://github.com/topics/hacktoberfest
  
 **repository** https://github.com/despo/issuehub.io
+
 **repository** https://github.com/up-for-grabs/up-for-grabs.net
 
 ## specific repositories 
