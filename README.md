@@ -35,8 +35,9 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
  tagged **#hacktoberfest** https://github.com/topics/hacktoberfest
  
- repository https://github.com/despo/issuehub.io
- 
+**repository** https://github.com/despo/issuehub.io
+**repository** https://github.com/up-for-grabs/up-for-grabs.net
+
 ## specific repositories 
  search repositories named **#Hacktoberfest** https://github.com/search?q=Hacktoberfest
 
