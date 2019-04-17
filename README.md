@@ -17,16 +17,16 @@ Get educated : https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 
 ## New coders - this is a great way to learn!
 
- Start here!  https://github.com/programmicon/how-to-contribute-to-open-source
+*Start here!* https://github.com/programmicon/how-to-contribute-to-open-source
  
  Specific repos:  https://github.com/OperationCode/START_HERE
  
  
- or for the **full git user** experience: 
+  or for the *full git user* experience: 
  https://github.com/firstcontributions/first-contributions
  
 
- then, once you are feeling it --- **go rogue!**
+ ### then, once you are feeling it --- *go rogue!*
 
  tagged **#first-timers** https://github.com/topics/first-timers
  
