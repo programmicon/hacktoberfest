@@ -21,10 +21,12 @@ Get educated : https://github.com/freeCodeCamp/how-to-contribute-to-open-source
  
  Specific repos:  https://github.com/OperationCode/START_HERE
  
- or for the git experience: 
+ 
+ or for the **full git user** experience: 
  https://github.com/firstcontributions/first-contributions
  
- then, once you are feeling it --- go rogue!
+
+ then, once you are feeling it --- **go rogue!**
 
  tagged **#first-timers** https://github.com/topics/first-timers
  
@@ -35,6 +37,7 @@ Get educated : https://github.com/freeCodeCamp/how-to-contribute-to-open-source
  tagged **#first-timers-friendly** https://github.com/topics/first-timers-friendly
  
  tagged **#beginner-friendly** https://github.com/topics/beginner-friendly
+ 
 
 ## for more advanced coders
 
@@ -46,14 +49,18 @@ Get educated : https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 
 **repository** https://github.com/up-for-grabs/up-for-grabs.net
 
+
 ## specific repositories 
  search repositories named **#Hacktoberfest** https://github.com/search?q=Hacktoberfest
 
  search repositories named  **#Hacktoberfest-2019** https://github.com/search?q=Hacktoberfest-2019
+ 
 
 # What's in it for you?
 
-Once registered with Digital Ocean, All contributers that get atleast 5 pull requests accepted in no special combination of projects --- get default swag offered by Digital Ocean (TBA).
+Helping your fellow coders, fav repos / projects --- supporting OpenSource!
+
+Once registered with Digital Ocean, All contributers that get atleast 5 pull requests accepted (in no special combination of projects) --- get default swag offered by Digital Ocean (TBA).
 
 However - lots of tech companies throw their own **"special swag"** into the mix, for doing specific tasks....(TBA)
 
