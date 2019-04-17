@@ -11,8 +11,9 @@ This is a great way to get your feet wet, if you are new!
 
 Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
-Get educated : https://github.com/freeCodeCamp/how-to-contribute-to-open-source
-
+Get educated : 
+- https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+- https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources
 # Find projects to contribute
 
 ## New coders - this is a great way to learn!
