@@ -20,31 +20,37 @@ Get educated :
 
 *Start here!* https://github.com/programmicon/how-to-contribute-to-open-source
  
- Specific repos:  https://github.com/OperationCode/START_HERE
+ Specific repos:  
+ - https://github.com/OperationCode/START_HERE
  
  
   or for the *full git user* experience: 
- https://github.com/firstcontributions/first-contributions
+ - https://github.com/firstcontributions/first-contributions
  
 
  ### then, once you are feeling it --- *go rogue!*
 
- tagged **#first-timers** https://github.com/topics/first-timers
+ - tagged **#first-timers** https://github.com/topics/first-timers
  
- tagged **#first-timers-only** https://github.com/topics/first-timers-only
+ - tagged **#first-timers-only** https://github.com/topics/first-timers-only
  
- tagged **#first-timers-only** https://github.com/bnb/good-first-issue
+ - tagged **#first-timers-only** https://github.com/bnb/good-first-issue
  
- tagged **#first-timers-friendly** https://github.com/topics/first-timers-friendly
+ - tagged **#first-timers-friendly** https://github.com/topics/first-timers-friendly
  
- tagged **#beginner-friendly** https://github.com/topics/beginner-friendly
+ - tagged **#beginner-friendly** https://github.com/topics/beginner-friendly
  
+ - tagged **#good-first-issue** https://github.com/topics/good-first-issue
+ 
+ - tagged **#beginner-project** https://github.com/topics/beginner-project
 
 ## for more advanced coders
 
  tagged **#help-wanted** https://github.com/topics/help-wanted
 
  tagged **#hacktoberfest** https://github.com/topics/hacktoberfest
+ 
+ tagged **contributions-welcome** https://github.com/topics/contributions-welcome
  
 **repository** https://github.com/despo/issuehub.io
 
