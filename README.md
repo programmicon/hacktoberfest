@@ -35,8 +35,6 @@ Get educated :
  
  - tagged **#first-timers-only** https://github.com/topics/first-timers-only
  
- - tagged **#first-timers-only** https://github.com/bnb/good-first-issue
- 
  - tagged **#first-timers-friendly** https://github.com/topics/first-timers-friendly
  
  - tagged **#beginner-friendly** https://github.com/topics/beginner-friendly
@@ -46,7 +44,7 @@ Get educated :
  - tagged **#beginner-project** https://github.com/topics/beginner-project
  
  Specific repos: 
- - https://github.com/bnb/good-first-issue
+ - tagged **#first-timers-only** https://github.com/bnb/good-first-issue
 
 ## for more advanced coders
 
