@@ -22,7 +22,7 @@ Get educated :
  
  Specific repos:  
  - https://github.com/OperationCode/START_HERE
- - https://github.com/MunGell/awesome-for-beginners
+ - (list is divided into programming languages!) https://github.com/MunGell/awesome-for-beginners
  
   or for the *full git user* experience: 
  - https://github.com/firstcontributions/first-contributions
