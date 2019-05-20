@@ -16,6 +16,7 @@ Get educated :
 - https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources
 - (a working simulation!) https://github.com/danthareja/contribute-to-open-source
 - (a bot that helps you!) https://github.com/hoodiehq/first-timers-bot
+- (a community that helps you!) https://github.com/OpenSourceHelpCommunity
 # Find projects to contribute
 
 ## New coders - this is a great way to learn!
