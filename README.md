@@ -44,6 +44,9 @@ Get educated :
  - tagged **#good-first-issue** https://github.com/topics/good-first-issue
  
  - tagged **#beginner-project** https://github.com/topics/beginner-project
+ 
+ Specific repos: 
+ - https://github.com/bnb/good-first-issue
 
 ## for more advanced coders
 
