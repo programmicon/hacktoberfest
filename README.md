@@ -14,6 +14,7 @@ Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 Get educated : 
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 - https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources
+- (a working simulation!) https://github.com/danthareja/contribute-to-open-source
 # Find projects to contribute
 
 ## New coders - this is a great way to learn!
