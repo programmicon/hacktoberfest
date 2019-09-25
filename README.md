@@ -7,6 +7,9 @@ This is a great way to get your feet wet, if you are new!
 ## Official info
 "Hacktoberfest is a month-long celebration of open source software. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub." - digital ocean / github  
 
+## Rules
+To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 50,000 participants who successfully complete the challenge will earn a T-shirt.
+
 ## How to contribute?
 
 Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
