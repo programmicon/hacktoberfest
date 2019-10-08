@@ -14,18 +14,22 @@ To qualify for the official limited edition Hacktoberfest shirt, you must regist
 
 Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
 
-Get educated : 
+**Get educated :** 
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 - https://github.com/OpenSourceHelpCommunity/Getting-Started-With-Contributing-to-Open-Sources
 - (a working simulation!) https://github.com/danthareja/contribute-to-open-source
 - (a bot that helps you!) https://github.com/hoodiehq/first-timers-bot
 - (a community that helps you!) https://github.com/OpenSourceHelpCommunity
+
 # Find projects to contribute
 
 ## New coders - this is a great way to learn!
 
-*Start here!* https://github.com/programmicon/how-to-contribute-to-open-source
+**Start here!** https://github.com/programmicon/how-to-contribute-to-open-source
  
+ **Get to know Git**
+- Great tutorial on how to use git to create your first pull request https://github.com/acmbvp/Hacktoberfest
+
  Specific repos:  
  - https://github.com/OperationCode/START_HERE
  - (list is divided into programming languages!) https://github.com/MunGell/awesome-for-beginners
