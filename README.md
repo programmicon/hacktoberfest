@@ -12,7 +12,7 @@ To qualify for the official limited edition Hacktoberfest shirt, you must regist
 
 ## How to contribute?
 
-**Get registered (in the Fall - October): https://hacktoberfest.digitalocean.com/
+**Get registered (in the Fall - October):** https://hacktoberfest.digitalocean.com/
 
 **Get educated :** 
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
